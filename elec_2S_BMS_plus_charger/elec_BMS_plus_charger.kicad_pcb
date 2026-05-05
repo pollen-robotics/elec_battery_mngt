@@ -9,7 +9,7 @@
 	(paper "A4")
 	(title_block
 		(title "Grabette -  BMS + charger")
-		(date "2026-03-18")
+		(date "2026-05-05")
 		(rev "A1")
 		(company "Pollen Robotics / Hugging Face")
 	)
@@ -1306,6 +1306,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "198b50fa-fff5-4795-91b3-238d77108376")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" "180"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "96e490e8-1214-4f36-bd9f-826a2538872a")
 			(effects
 				(font
 					(size 1 1)
@@ -8647,6 +8660,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "81544fd2-f514-4ee9-927a-adf144c1bac5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" "180"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d5e4affe-9522-4e69-b679-c8b3a3329db2")
 			(effects
 				(font
 					(size 1 1)
@@ -22243,7 +22269,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "ASE01xyz-A1"
+	(gr_text "ASE01203-A1"
 		(at 146.697501 60.040001 0)
 		(layer "F.SilkS" knockout)
 		(uuid "513698ab-cc04-4b01-b2c5-46a19382b891")

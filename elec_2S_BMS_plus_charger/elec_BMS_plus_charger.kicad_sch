@@ -583,7 +583,7 @@
 		)
 		(uuid "3855db64-4801-445b-b83e-9e7849cbe5fc")
 	)
-	(text "ASE011xy"
+	(text "ASE01203"
 		(exclude_from_sim no)
 		(at 46.99 137.795 0)
 		(effects
@@ -671,7 +671,7 @@
 		)
 		(uuid "f5d00bcc-eabe-48dd-9739-479bfa89e1ef")
 	)
-	(text "dd/mm/2026"
+	(text "05/05/2026"
 		(exclude_from_sim no)
 		(at 39.37 44.45 0)
 		(effects
@@ -2687,7 +2687,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "PCB011xy"
+		(property "Value" "PCB01202"
 			(at 46.99 133.985 0)
 			(effects
 				(font
