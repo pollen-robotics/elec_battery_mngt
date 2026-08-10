@@ -14909,7 +14909,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_6.3x6.3_H3"
+		(property "Footprint" "LCSC_parts_lib:IND-SMD_L7.2-W6.6_GPSR0730"
 			(at 207.01 137.16 0)
 			(effects
 				(font
